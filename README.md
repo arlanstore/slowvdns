@@ -1,1 +1,1 @@
-# slowvdns
+# slowdns
